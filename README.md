@@ -4,7 +4,7 @@ This is a simple HTTP Flask web application that stores an inventory table in a 
 ## Setup
 Open up a unix terminal and clone the git repo and move into it:
 ```
-git clone https://github.com/sergmister/Inventory-Intern-Challenge
+git clone https://github.com/sergmister/Inventory-Intern-Challenge.git
 cd Inventory-Intern-Challenge
 ```
 Ensure you have Python 3 and curl installed on your system and are available in your PATH environment variable. Install the Flask library with the following command:
